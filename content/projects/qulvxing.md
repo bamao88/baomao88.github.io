@@ -4,65 +4,27 @@ description = "这是我的 App"
 weight = 1
 
 [extra]
-local_image = "/projects/project-1.jpg"
+local_image = "/projects/qulvxingrs/01.png"
 #link_to = "https://github.com/not-matthias/apollo"
 +++
 
-# 起源（一级标题）
+# 去旅行 —— 轻松规划 ‘去旅行’ 更简单
 
-## 我们喜爱旅行（二级标题）
+这是一款我虚构设计的旅行规划应用项目。
 
-### 以及更多
+选择“旅行”为主题的原因在于，我在旅行前会搜集大量攻略并保存。然而，由于路线规划繁琐，导致我不会将其落到具体行程中。结果在实际旅行中，我常常需要边走边查攻略，导致旅途充满不确定性。这种体验让我感受到，提供攻略资源的应用很多，但是却缺少一个有效整合收藏与规划流程的工具。
 
-
-注释掉一段内容（回头再使用）
+基于这种困扰，我决定从个人需求出发，设计一个更加简便的旅行规划工具。它的目标是帮助旅行者轻松管理各类旅行信息，从收藏的攻略到具体的行程安排，从而减少出行前的混乱感，提升整体旅行体验。
 
 <!-- 注释内容在这里，不会显示,blabla -->
 <!-- 注释内容在这里，不会显示,blabla -->
 
-Here can
+
+<!-- Insert Figma: -->
+
+查看 Figma 链接（请点击右上角全屏查看）
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://embed.figma.com/proto/FwhW362CHL0BVo1G8iCqii/%E5%8E%BB%E6%97%85%E8%A1%8C%E4%BD%9C%E5%93%81%E9%9B%86%E6%8E%92%E7%89%881013-(%E5%85%AC%E5%BC%80)?page-id=0%3A1&node-id=4322-10943&node-type=canvas&viewport=5650%2C355%2C0.26&scaling=min-zoom&content-scaling=fixed&embed-host=share" allowfullscreen></iframe>
 
 
-## 插入视频
 
-（推荐将视频放在对应文件夹下面）
-
--{-{ video(src="demors/hand.mp4") }}
-
-
-## 插入图片
-
-### 使用相对路径（推荐方式）
-
-<!-- -{-{ img(src="./demors/qulvxing.png", text="The default fit for images is fit to screen") }} -->
-
-单独文件夹（不可用，很奇怪）
-
-{{ img(src="demors/qulvxing.png") }}
-
---not working--
--{-{ gallery() }}
-
-### 其他方式，需要添加 /content/ 之后的路径，如
-
-HTML 格式写法：
-
-单独文件夹：
-
-<img src="/projects/demors/qulvxing.png" />
-
-Markdown 格式写法：
-
-单独文件夹：
-
-![Markdown 格式写法 2](/projects/demors/project-1.jpg)
-
-
-Insert Figma:
-
-Figma 链接（请点击右上角全屏查看）
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="1000" src="https://embed.figma.com/proto/FwhW362CHL0BVo1G8iCqii/%E5%8E%BB%E6%97%85%E8%A1%8C%E4%BD%9C%E5%93%81%E9%9B%86%E6%8E%92%E7%89%881013-(%E5%85%AC%E5%BC%80)?page-id=0%3A1&node-id=4322-10943&node-type=canvas&viewport=5650%2C355%2C0.26&scaling=min-zoom&content-scaling=fixed&embed-host=share" allowfullscreen></iframe>
-
-
-Done

@@ -4,7 +4,7 @@ description = "建议拷贝后使用"
 weight = 10
 
 [extra]
-local_image = "/projects/project-1.jpg"
+local_image = "/projects/demors/project-1.jpg"
 #link_to = "https://github.com/not-matthias/apollo"
 +++
 

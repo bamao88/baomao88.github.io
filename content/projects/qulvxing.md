@@ -1,6 +1,6 @@
 +++
 title = "去旅行 App"
-description = "这是我的 App"
+description = "轻松规划 ‘去旅行’ 更简单"
 weight = 1
 
 [extra]

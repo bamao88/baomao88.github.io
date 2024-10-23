@@ -20,11 +20,31 @@ local_image = "/projects/qulvxingrs/01.png"
 <!-- 注释内容在这里，不会显示,blabla -->
 
 
-<!-- Insert Figma: -->
 
-查看 Figma 链接（请点击右上角全屏查看）
+<img src="/projects/qulvxingrs/picture_1.png" alt="图片" style="width:100%;height:auto;">
+<img src="/projects/qulvxingrs/picture_2.png" alt="图片" style="width:100%;height:auto;">
+<img src="/projects/qulvxingrs/picture_3.png" alt="图片" style="width:100%;height:auto;">
+<img src="/projects/qulvxingrs/picture_4.png" alt="图片" style="width:100%;height:auto;">
+<img src="/projects/qulvxingrs/picture_5.png" alt="图片" style="width:100%;height:auto;">
+<img src="/projects/qulvxingrs/picture_6.png" alt="图片" style="width:100%;height:auto;">
+<img src="/projects/qulvxingrs/picture_7.png" alt="图片" style="width:100%;height:auto;">
+<img src="/projects/qulvxingrs/picture_8.png" alt="图片" style="width:100%;height:auto;">
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://embed.figma.com/proto/FwhW362CHL0BVo1G8iCqii/%E5%8E%BB%E6%97%85%E8%A1%8C%E4%BD%9C%E5%93%81%E9%9B%86%E6%8E%92%E7%89%881013-(%E5%85%AC%E5%BC%80)?page-id=0%3A1&node-id=4322-10943&node-type=canvas&viewport=5650%2C355%2C0.26&scaling=min-zoom&content-scaling=fixed&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://embed.figma.com/proto/Y543QBcngie4ZKSvkM4END/%E5%8E%BB%E6%97%85%E8%A1%8CAPP%E6%8E%92%E7%89%88-(%E5%B7%B2%E9%94%81%E5%AE%9A1022)?page-id=20022%3A8938&node-id=20022-8939&node-type=frame&viewport=853%2C565%2C0.83&scaling=contain&content-scaling=fixed&embed-host=share" allowfullscreen></iframe>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://embed.figma.com/proto/Y543QBcngie4ZKSvkM4END/%E5%8E%BB%E6%97%85%E8%A1%8CAPP%E6%8E%92%E7%89%88-(%E5%B7%B2%E9%94%81%E5%AE%9A1022)?page-id=20022%3A9136&node-id=20022-9137&node-type=frame&viewport=853%2C565%2C0.83&scaling=contain&content-scaling=fixed&embed-host=share" allowfullscreen></iframe>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://embed.figma.com/proto/Y543QBcngie4ZKSvkM4END/%E5%8E%BB%E6%97%85%E8%A1%8CAPP%E6%8E%92%E7%89%88-(%E5%B7%B2%E9%94%81%E5%AE%9A1022)?page-id=20022%3A9864&node-id=20022-9912&node-type=canvas&viewport=853%2C565%2C0.23&scaling=contain&content-scaling=fixed&embed-host=share" allowfullscreen></iframe>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://embed.figma.com/proto/Y543QBcngie4ZKSvkM4END/%E5%8E%BB%E6%97%85%E8%A1%8CAPP%E6%8E%92%E7%89%88-(%E5%B7%B2%E9%94%81%E5%AE%9A1022)?page-id=20022%3A10504&node-id=20022-10505&node-type=canvas&viewport=853%2C565%2C0.47&scaling=contain&content-scaling=fixed&embed-host=share
+" allowfullscreen></iframe>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://embed.figma.com/proto/Y543QBcngie4ZKSvkM4END/%E5%8E%BB%E6%97%85%E8%A1%8CAPP%E6%8E%92%E7%89%88-(%E5%B7%B2%E9%94%81%E5%AE%9A1022)?page-id=20022%3A10797&node-id=20022-10798&node-type=frame&viewport=665%2C538%2C0.37&scaling=contain&content-scaling=fixed&embed-host=share" allowfullscreen></iframe>
 
 
+<img src="/projects/qulvxingrs/picture_14.png" alt="图片" style="width:100%;height:auto;">
+<img src="/projects/qulvxingrs/picture_15.png" alt="图片" style="width:100%;height:auto;">
+<img src="/projects/qulvxingrs/picture_16.png" alt="图片" style="width:100%;height:auto;">
+<img src="/projects/qulvxingrs/picture_17.png" alt="图片" style="width:100%;height:auto;">
+<img src="/projects/qulvxingrs/picture_18.png" alt="图片" style="width:100%;height:auto;">
 

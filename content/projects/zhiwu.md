@@ -1,6 +1,6 @@
 +++
 title = "植屋"
-description = "这是一个温馨、关怀植物的“家”，让用户更好地照顾植物。"
+description = "一个温馨、关怀植物的“家”，让用户更好地照顾植物。"
 weight = 1
 
 [extra]
